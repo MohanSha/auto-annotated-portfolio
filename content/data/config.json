@@ -1,36 +1,6 @@
 {
     "type": "Config",
     "favicon": "/images/favicon.svg",
-    "header": {
-        "type": "Header",
-        "headerVariant": "variant-c",
-        "isSticky": false,
-        "title": "Personal",
-        "isTitleVisible": true,
-        "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "Info",
-                "url": "/info"
-            },
-            {
-                "type": "Link",
-                "label": "Projects",
-                "url": "/projects"
-            },
-            {
-                "type": "Link",
-                "label": "Blog",
-                "url": "/blog"
-            }
-        ],
-        "socialLinks": [],
-        "styles": {
-            "self": {
-                "width": "full"
-            }
-        }
-    },
     "footer": {
         "type": "Footer",
         "primaryLinks": [
